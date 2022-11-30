@@ -6,6 +6,6 @@ I made some C++ programs which draw the figures of Engineering Graphics and outp
 
 Check out Codes branch for the codes and commit if you want...
 
-
-In this branch you will find all the questions for which the codes and outputs have been made 
-Use this branch to add and commit new questions as you wish
+Check out Outputs branch for the outputs and commit if you want...
+ 
+Check out Questions branch for the questions of Engineering Graphics...
